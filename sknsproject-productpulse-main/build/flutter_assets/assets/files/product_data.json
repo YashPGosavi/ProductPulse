@@ -1,0 +1,593 @@
+{
+    "data":{
+        "amazon_details": {
+            "amazon_buy_link": "https://www.amazon.in/Apple-iPhone-14-128GB-Blue/dp/B0BDK62PDX/ref=sr_1_1?dib=eyJ2IjoiMSJ9.DmkQ0s9_Opq2A5G2HZfn5tCTpGqvBVIVVsmb2aURzLnVKmVDu8t6-kAAC4CJCrCZNJXja_eSv4GeziCzdXZmL4OWsC-rcDBrYYiPBM5sHhwKBawR9b5q6QEzQR_FV241IwkYZowWBHJb1-oGtals7jvJX5ORhAEbBwoU8IcW-B0SwNtBvwEfpUUFyrFnANGrPc7BMf_VO_SwtLaQbfBM-1u-AtyFCY-toLEeRJNWqqI.kaH_itDjFtgr9m7-4d5xIP9wYHr7LYBhDMn4iIhGR5U&dib_tag=se&keywords=Apple+iPhone+14+%28Blue%2C+128+GB%29&qid=1714128530&sr=8-1",
+            "amazon_price": 62800.0,
+            "platform": "Amazon",
+            "title": "Apple iPhone 14 (128 GB) - Blue"
+        },
+        "flipkart_details": {
+            "description": "Highlights128 GB ROM15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip, 6 Core Processor Processor",
+            "flipkart_buy_link": "https://www.flipkart.com/apple-iphone-14-blue-128-gb/p/itmdb77f40da6b6d?pid=MOBGHWFHSV7GUFWA&lid=LSTMOBGHWFHSV7GUFWAFEQJQ4&marketplace=FLIPKART&q=iphone+14&store=tyy%2F4io&spotlightTagId=BestsellerId_tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=88afd637-b08c-4ce9-bc18-7736e0a65144.MOBGHWFHSV7GUFWA.SEARCH&ppt=sp&ppn=sp&ssid=j9d8y8nfsw0000001714128107084&qH=860f3715b8db08cd",
+            "flipkart_price": 55999.0,
+            "image_urls": [
+                "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70&crop=false"
+            ],
+            "platform": "Flipkart",
+            "title": "Apple iPhone 14 (Blue, 128 GB)"
+        },
+        "reviews": [
+            {
+                "comment": "Good",
+                "rating": "5",
+                "review_title": "Just wow!",
+                "user": "Avi Nash"
+            },
+            {
+                "comment": "The Much Better",
+                "rating": "5",
+                "review_title": "Awesome",
+                "user": "Nagu K Gouda"
+            },
+            {
+                "comment": "Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happySee Low light photos are amazing..",
+                "rating": "5",
+                "review_title": "Fabulous!",
+                "user": "Rahul Prasad "
+            },
+            {
+                "comment": "Just amazing!",
+                "rating": "5",
+                "review_title": "Excellent",
+                "user": "Ajay Kumar"
+            },
+            {
+                "comment": "Reasons to get it over regular 13- 50 percent extra ram- Better camera sensors- Cinematic mode at 4k 30 fps (13 could only do     1080p 30fps)- Action mode for super stabilised videos- Better low light photos thanks to photonic engine- Better battery life- Extra gpu core for high graphics performance- New improved modem for fast and efficient mobile connectivity- Dual ambient light sensors- Better camera flash- Crash detection- Satellite connectivity (though currently not in I...",
+                "rating": "5",
+                "review_title": "Awesome",
+                "user": "Vipul Rai"
+            },
+            {
+                "comment": "Nice UI and Fast",
+                "rating": "4",
+                "review_title": "Very Good",
+                "user": "Narendar Redyy"
+            },
+            {
+                "comment": "The volume down button is struck and unable to volume up. The Flipkart team is saying it is open box delivery so they can't help.......how can we check the volume without opening/start the mobile, when i ask this question the customer support placing my call on hold and dropping my call",
+                "rating": "5",
+                "review_title": "Waste of money!",
+                "user": "Sri pavan sundeep Somu"
+            },
+            {
+                "comment": "Amazing picture quality, awesome design, mind blowing display and fabulous performance and specially very handy phone",
+                "rating": "5",
+                "review_title": "Best in the market!",
+                "user": "Waqar ahmed"
+            },
+            {
+                "comment": "Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The night mode can take some really good shots jn low light conditions .The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.",
+                "rating": "5",
+                "review_title": "Great product",
+                "user": "Flipkart Customer"
+            },
+            {
+                "comment": "Nice camera but battery drain fast specially on video recording",
+                "rating": "5",
+                "review_title": "Great product",
+                "user": "Tara singh mehra"
+            },
+            {
+                "comment": "Thanku filipkart best phone in the world ❤",
+                "rating": "5",
+                "review_title": "Terrific purchase",
+                "user": "Shivam  kumar"
+            },
+            {
+                "comment": "The best camera best design !!1st iphone 14 !!i tried all  conditions light photothe quality is best i was impressed with devicebattery backup is goodperform is very impressive 🔥",
+                "rating": "4",
+                "review_title": "Must buy!",
+                "user": "Sanket  Hange "
+            },
+            {
+                "comment": "Awesome 👍",
+                "rating": "4",
+                "review_title": "Good quality product",
+                "user": "Ashwini  biswal "
+            },
+            {
+                "comment": "Unboxing overall good experience 😊",
+                "rating": "5",
+                "review_title": "Good choice",
+                "user": "ABHI GOWDA 76"
+            },
+            {
+                "comment": "Excellent smart phone, Good battery backup and performance is very good, Good camera quality.",
+                "rating": "5",
+                "review_title": "Best in the market!",
+                "user": "Banwari  Kaka"
+            },
+            {
+                "comment": "Ultimate",
+                "rating": "5",
+                "review_title": "Highly recommended",
+                "user": "Vaish Khan"
+            },
+            {
+                "comment": "Amazing picture quality❤👌🏼👌🏼",
+                "rating": "5",
+                "review_title": "Worth every penny",
+                "user": "NAREN MALO"
+            },
+            {
+                "comment": "Very nice product, camera quality is just amazing everything seems too real.Phone is very fast.",
+                "rating": "5",
+                "review_title": "Excellent",
+                "user": "Viraj Maru"
+            },
+            {
+                "comment": "Just awesome....❤🙌😌Display Camera Battery Processor....JUST WOW....✨💗☺",
+                "rating": "5",
+                "review_title": "Must buy!",
+                "user": "Abinash Bhuyan Rajput"
+            },
+            {
+                "comment": "Good",
+                "rating": "5",
+                "review_title": "Perfect product!",
+                "user": "CHAKARI OBULESU"
+            },
+            {
+                "comment": "Good",
+                "rating": "5",
+                "review_title": "Just wow!",
+                "user": "Avi Nash"
+            },
+            {
+                "comment": "The Much Better",
+                "rating": "5",
+                "review_title": "Awesome",
+                "user": "Nagu K Gouda"
+            },
+            {
+                "comment": "Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happySee Low light photos are amazing..",
+                "rating": "5",
+                "review_title": "Fabulous!",
+                "user": "Rahul Prasad "
+            },
+            {
+                "comment": "Just amazing!",
+                "rating": "5",
+                "review_title": "Excellent",
+                "user": "Ajay Kumar"
+            },
+            {
+                "comment": "Reasons to get it over regular 13- 50 percent extra ram- Better camera sensors- Cinematic mode at 4k 30 fps (13 could only do     1080p 30fps)- Action mode for super stabilised videos- Better low light photos thanks to photonic engine- Better battery life- Extra gpu core for high graphics performance- New improved modem for fast and efficient mobile connectivity- Dual ambient light sensors- Better camera flash- Crash detection- Satellite connectivity (though currently not in I...",
+                "rating": "4",
+                "review_title": "Awesome",
+                "user": "Vipul Rai"
+            },
+            {
+                "comment": "Nice UI and Fast",
+                "rating": "5",
+                "review_title": "Very Good",
+                "user": "Narendar Redyy"
+            },
+            {
+                "comment": "The volume down button is struck and unable to volume up. The Flipkart team is saying it is open box delivery so they can't help.......how can we check the volume without opening/start the mobile, when i ask this question the customer support placing my call on hold and dropping my call",
+                "rating": "5",
+                "review_title": "Waste of money!",
+                "user": "Sri pavan sundeep Somu"
+            },
+            {
+                "comment": "Amazing picture quality, awesome design, mind blowing display and fabulous performance and specially very handy phone",
+                "rating": "5",
+                "review_title": "Best in the market!",
+                "user": "Waqar ahmed"
+            },
+            {
+                "comment": "Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The night mode can take some really good shots jn low light conditions .The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.",
+                "rating": "5",
+                "review_title": "Great product",
+                "user": "Flipkart Customer"
+            },
+            {
+                "comment": "Nice camera but battery drain fast specially on video recording",
+                "rating": "5",
+                "review_title": "Great product",
+                "user": "Tara singh mehra"
+            },
+            {
+                "comment": "Thanku filipkart best phone in the world ❤",
+                "rating": "4",
+                "review_title": "Terrific purchase",
+                "user": "Shivam  kumar"
+            },
+            {
+                "comment": "The best camera best design !!1st iphone 14 !!i tried all  conditions light photothe quality is best i was impressed with devicebattery backup is goodperform is very impressive 🔥",
+                "rating": "4",
+                "review_title": "Must buy!",
+                "user": "Sanket  Hange "
+            },
+            {
+                "comment": "Awesome 👍",
+                "rating": "5",
+                "review_title": "Good quality product",
+                "user": "Ashwini  biswal "
+            },
+            {
+                "comment": "Unboxing overall good experience 😊",
+                "rating": "5",
+                "review_title": "Good choice",
+                "user": "ABHI GOWDA 76"
+            },
+            {
+                "comment": "Excellent smart phone, Good battery backup and performance is very good, Good camera quality.",
+                "rating": "5",
+                "review_title": "Best in the market!",
+                "user": "Banwari  Kaka"
+            },
+            {
+                "comment": "Ultimate",
+                "rating": "5",
+                "review_title": "Highly recommended",
+                "user": "Vaish Khan"
+            },
+            {
+                "comment": "Amazing picture quality❤👌🏼👌🏼",
+                "rating": "5",
+                "review_title": "Worth every penny",
+                "user": "NAREN MALO"
+            },
+            {
+                "comment": "Very nice product, camera quality is just amazing everything seems too real.Phone is very fast.",
+                "rating": "5",
+                "review_title": "Excellent",
+                "user": "Viraj Maru"
+            },
+            {
+                "comment": "Just awesome....❤🙌😌Display Camera Battery Processor....JUST WOW....✨💗☺",
+                "rating": "5",
+                "review_title": "Must buy!",
+                "user": "Abinash Bhuyan Rajput"
+            },
+            {
+                "comment": "Good",
+                "rating": "5",
+                "review_title": "Perfect product!",
+                "user": "CHAKARI OBULESU"
+            },
+            {
+                "comment": "Good",
+                "rating": "5",
+                "review_title": "Just wow!",
+                "user": "Avi Nash"
+            },
+            {
+                "comment": "The Much Better",
+                "rating": "5",
+                "review_title": "Awesome",
+                "user": "Nagu K Gouda"
+            },
+            {
+                "comment": "Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happySee Low light photos are amazing..",
+                "rating": "5",
+                "review_title": "Fabulous!",
+                "user": "Rahul Prasad "
+            },
+            {
+                "comment": "Just amazing!",
+                "rating": "4",
+                "review_title": "Excellent",
+                "user": "Ajay Kumar"
+            },
+            {
+                "comment": "Reasons to get it over regular 13- 50 percent extra ram- Better camera sensors- Cinematic mode at 4k 30 fps (13 could only do     1080p 30fps)- Action mode for super stabilised videos- Better low light photos thanks to photonic engine- Better battery life- Extra gpu core for high graphics performance- New improved modem for fast and efficient mobile connectivity- Dual ambient light sensors- Better camera flash- Crash detection- Satellite connectivity (though currently not in I...",
+                "rating": "5",
+                "review_title": "Awesome",
+                "user": "Vipul Rai"
+            },
+            {
+                "comment": "Nice UI and Fast",
+                "rating": "5",
+                "review_title": "Very Good",
+                "user": "Narendar Redyy"
+            },
+            {
+                "comment": "The volume down button is struck and unable to volume up. The Flipkart team is saying it is open box delivery so they can't help.......how can we check the volume without opening/start the mobile, when i ask this question the customer support placing my call on hold and dropping my call",
+                "rating": "5",
+                "review_title": "Waste of money!",
+                "user": "Sri pavan sundeep Somu"
+            },
+            {
+                "comment": "Amazing picture quality, awesome design, mind blowing display and fabulous performance and specially very handy phone",
+                "rating": "5",
+                "review_title": "Best in the market!",
+                "user": "Waqar ahmed"
+            },
+            {
+                "comment": "Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The night mode can take some really good shots jn low light conditions .The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.",
+                "rating": "5",
+                "review_title": "Great product",
+                "user": "Flipkart Customer"
+            },
+            {
+                "comment": "Nice camera but battery drain fast specially on video recording",
+                "rating": "4",
+                "review_title": "Great product",
+                "user": "Tara singh mehra"
+            },
+            {
+                "comment": "Thanku filipkart best phone in the world ❤",
+                "rating": "4",
+                "review_title": "Terrific purchase",
+                "user": "Shivam  kumar"
+            },
+            {
+                "comment": "The best camera best design !!1st iphone 14 !!i tried all  conditions light photothe quality is best i was impressed with devicebattery backup is goodperform is very impressive 🔥",
+                "rating": "5",
+                "review_title": "Must buy!",
+                "user": "Sanket  Hange "
+            },
+            {
+                "comment": "Awesome 👍",
+                "rating": "5",
+                "review_title": "Good quality product",
+                "user": "Ashwini  biswal "
+            },
+            {
+                "comment": "Unboxing overall good experience 😊",
+                "rating": "5",
+                "review_title": "Good choice",
+                "user": "ABHI GOWDA 76"
+            },
+            {
+                "comment": "Excellent smart phone, Good battery backup and performance is very good, Good camera quality.",
+                "rating": "5",
+                "review_title": "Best in the market!",
+                "user": "Banwari  Kaka"
+            },
+            {
+                "comment": "Ultimate",
+                "rating": "5",
+                "review_title": "Highly recommended",
+                "user": "Vaish Khan"
+            },
+            {
+                "comment": "Amazing picture quality❤👌🏼👌🏼",
+                "rating": "5",
+                "review_title": "Worth every penny",
+                "user": "NAREN MALO"
+            },
+            {
+                "comment": "Very nice product, camera quality is just amazing everything seems too real.Phone is very fast.",
+                "rating": "5",
+                "review_title": "Excellent",
+                "user": "Viraj Maru"
+            },
+            {
+                "comment": "Just awesome....❤🙌😌Display Camera Battery Processor....JUST WOW....✨💗☺",
+                "rating": "5",
+                "review_title": "Must buy!",
+                "user": "Abinash Bhuyan Rajput"
+            },
+            {
+                "comment": "Good",
+                "rating": "5",
+                "review_title": "Perfect product!",
+                "user": "CHAKARI OBULESU"
+            },
+            {
+                "comment": "Good",
+                "rating": "5",
+                "review_title": "Just wow!",
+                "user": "Avi Nash"
+            },
+            {
+                "comment": "The Much Better",
+                "rating": "5",
+                "review_title": "Awesome",
+                "user": "Nagu K Gouda"
+            },
+            {
+                "comment": "Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happySee Low light photos are amazing..",
+                "rating": "4",
+                "review_title": "Fabulous!",
+                "user": "Rahul Prasad "
+            },
+            {
+                "comment": "Just amazing!",
+                "rating": "5",
+                "review_title": "Excellent",
+                "user": "Ajay Kumar"
+            },
+            {
+                "comment": "Reasons to get it over regular 13- 50 percent extra ram- Better camera sensors- Cinematic mode at 4k 30 fps (13 could only do     1080p 30fps)- Action mode for super stabilised videos- Better low light photos thanks to photonic engine- Better battery life- Extra gpu core for high graphics performance- New improved modem for fast and efficient mobile connectivity- Dual ambient light sensors- Better camera flash- Crash detection- Satellite connectivity (though currently not in I...",
+                "rating": "5",
+                "review_title": "Awesome",
+                "user": "Vipul Rai"
+            },
+            {
+                "comment": "Nice UI and Fast",
+                "rating": "5",
+                "review_title": "Very Good",
+                "user": "Narendar Redyy"
+            },
+            {
+                "comment": "The volume down button is struck and unable to volume up. The Flipkart team is saying it is open box delivery so they can't help.......how can we check the volume without opening/start the mobile, when i ask this question the customer support placing my call on hold and dropping my call",
+                "rating": "5",
+                "review_title": "Waste of money!",
+                "user": "Sri pavan sundeep Somu"
+            },
+            {
+                "comment": "Amazing picture quality, awesome design, mind blowing display and fabulous performance and specially very handy phone",
+                "rating": "5",
+                "review_title": "Best in the market!",
+                "user": "Waqar ahmed"
+            },
+            {
+                "comment": "Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The night mode can take some really good shots jn low light conditions .The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.",
+                "rating": "4",
+                "review_title": "Great product",
+                "user": "Flipkart Customer"
+            },
+            {
+                "comment": "Nice camera but battery drain fast specially on video recording",
+                "rating": "4",
+                "review_title": "Great product",
+                "user": "Tara singh mehra"
+            },
+            {
+                "comment": "Thanku filipkart best phone in the world ❤",
+                "rating": "5",
+                "review_title": "Terrific purchase",
+                "user": "Shivam  kumar"
+            },
+            {
+                "comment": "The best camera best design !!1st iphone 14 !!i tried all  conditions light photothe quality is best i was impressed with devicebattery backup is goodperform is very impressive 🔥",
+                "rating": "5",
+                "review_title": "Must buy!",
+                "user": "Sanket  Hange "
+            },
+            {
+                "comment": "Awesome 👍",
+                "rating": "5",
+                "review_title": "Good quality product",
+                "user": "Ashwini  biswal "
+            },
+            {
+                "comment": "Unboxing overall good experience 😊",
+                "rating": "5",
+                "review_title": "Good choice",
+                "user": "ABHI GOWDA 76"
+            },
+            {
+                "comment": "Excellent smart phone, Good battery backup and performance is very good, Good camera quality.",
+                "rating": "5",
+                "review_title": "Best in the market!",
+                "user": "Banwari  Kaka"
+            },
+            {
+                "comment": "Ultimate",
+                "rating": "5",
+                "review_title": "Highly recommended",
+                "user": "Vaish Khan"
+            },
+            {
+                "comment": "Amazing picture quality❤👌🏼👌🏼",
+                "rating": "5",
+                "review_title": "Worth every penny",
+                "user": "NAREN MALO"
+            },
+            {
+                "comment": "Very nice product, camera quality is just amazing everything seems too real.Phone is very fast.",
+                "rating": "5",
+                "review_title": "Excellent",
+                "user": "Viraj Maru"
+            },
+            {
+                "comment": "Just awesome....❤🙌😌Display Camera Battery Processor....JUST WOW....✨💗☺",
+                "rating": "5",
+                "review_title": "Must buy!",
+                "user": "Abinash Bhuyan Rajput"
+            },
+            {
+                "comment": "Good",
+                "rating": "5",
+                "review_title": "Perfect product!",
+                "user": "CHAKARI OBULESU"
+            },
+            {
+                "comment": "Good",
+                "rating": "5",
+                "review_title": "Just wow!",
+                "user": "Avi Nash"
+            },
+            {
+                "comment": "The Much Better",
+                "rating": "4",
+                "review_title": "Awesome",
+                "user": "Nagu K Gouda"
+            },
+            {
+                "comment": "Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happySee Low light photos are amazing..",
+                "rating": "5",
+                "review_title": "Fabulous!",
+                "user": "Rahul Prasad "
+            },
+            {
+                "comment": "Just amazing!",
+                "rating": "5",
+                "review_title": "Excellent",
+                "user": "Ajay Kumar"
+            },
+            {
+                "comment": "Reasons to get it over regular 13- 50 percent extra ram- Better camera sensors- Cinematic mode at 4k 30 fps (13 could only do     1080p 30fps)- Action mode for super stabilised videos- Better low light photos thanks to photonic engine- Better battery life- Extra gpu core for high graphics performance- New improved modem for fast and efficient mobile connectivity- Dual ambient light sensors- Better camera flash- Crash detection- Satellite connectivity (though currently not in I...",
+                "rating": "5",
+                "review_title": "Awesome",
+                "user": "Vipul Rai"
+            },
+            {
+                "comment": "Nice UI and Fast",
+                "rating": "5",
+                "review_title": "Very Good",
+                "user": "Narendar Redyy"
+            },
+            {
+                "comment": "The volume down button is struck and unable to volume up. The Flipkart team is saying it is open box delivery so they can't help.......how can we check the volume without opening/start the mobile, when i ask this question the customer support placing my call on hold and dropping my call",
+                "rating": "5",
+                "review_title": "Waste of money!",
+                "user": "Sri pavan sundeep Somu"
+            },
+            {
+                "comment": "Amazing picture quality, awesome design, mind blowing display and fabulous performance and specially very handy phone",
+                "rating": "4",
+                "review_title": "Best in the market!",
+                "user": "Waqar ahmed"
+            },
+            {
+                "comment": "Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The night mode can take some really good shots jn low light conditions .The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.",
+                "rating": "4",
+                "review_title": "Great product",
+                "user": "Flipkart Customer"
+            },
+            {
+                "comment": "Nice camera but battery drain fast specially on video recording",
+                "rating": "5",
+                "review_title": "Great product",
+                "user": "Tara singh mehra"
+            },
+            {
+                "comment": "Thanku filipkart best phone in the world ❤",
+                "rating": "5",
+                "review_title": "Terrific purchase",
+                "user": "Shivam  kumar"
+            },
+            {
+                "comment": "The best camera best design !!1st iphone 14 !!i tried all  conditions light photothe quality is best i was impressed with devicebattery backup is goodperform is very impressive 🔥",
+                "rating": "5",
+                "review_title": "Must buy!",
+                "user": "Sanket  Hange "
+            },
+            {
+                "comment": "Awesome 👍",
+                "rating": "5",
+                "review_title": "Good quality product",
+                "user": "Ashwini  biswal "
+            },
+            {
+                "comment": "Unboxing overall good experience 😊",
+                "rating": "5",
+                "review_title": "Good choice",
+                "user": "ABHI GOWDA 76"
+            },
+            {
+                "comment": "Excellent smart phone, Good battery backup and performance is very good, Good camera quality.",
+                "rating": "5",
+                "review_title": "Best in the market!",
+                "user": "Banwari  Kaka"
+            }
+        ],
+        "title": "Apple iPhone 14 (Blue, 128 GB)"
+    }
+}
